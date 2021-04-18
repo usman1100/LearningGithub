@@ -1,5 +1,6 @@
 #include<stdio.h>
+#include "colors.h"
 
 int main(){
-    printf("Hello World");
+    printf(YELB BLK "Hello World" reset);
 }
